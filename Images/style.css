@@ -93,12 +93,12 @@ ul li a:hover
   font-family: cursive;
 }
 .nxt a{
-  color:aquamarine;
+  color:rgb(121, 43, 247);
 }
 .about .container{
   align-items: center;
   justify-content: center;
-  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("connected-technology.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("about.jpg");
   background-size:cover;
   height: 100vh;
   background-position: center;
@@ -111,21 +111,20 @@ ul li a:hover
   padding-top: 100px;  
 }
 .about-heading h1{
-  color: rgb(0, 238, 255) ;
+  color: rgb(135, 43, 255) ;
   font-size: 10rem;
   opacity: 0.3;
 }
 
 .about-heading h6{
-  color:rgb(154, 2, 255);
+  color:rgb(59, 0, 99);
   font-size: 5rem;
   font-weight: 500;
 }
 .about-details{
-  color: rgb(154, 243, 255);
+  color: rgb(34, 0, 97);
   font-size: 25px;
   flex: 1rem;
-  background-color: rgba(0, 0, 0, 0.199);
 }
 p{
   padding-top: 51px;
@@ -175,7 +174,7 @@ p{
 .Tel{
   padding-top: 15rem;
   padding-bottom: 10rem;
-  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("dna.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("1.jpg");
   background-size:cover ;
 }
 .register{
